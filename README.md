@@ -5,7 +5,7 @@
 ## Author: Mohammad alghzawi
 
 ## Links and Resources
-* ### None
+* ### PR: https://github.com/alghzzawi/madlib-cli/pull/1
 
 ## Setup
 * ### python 3.9.5
