@@ -5,9 +5,9 @@ def read_template(path):
         with open(path, 'r') as f:
             content = f.read()
     except FileExistsError as err:
-        return err
+        raise err
     except FileNotFoundError as err:
-        return err
+        raise err
     return content 
 
 def parse_template(story):
